@@ -1,0 +1,5 @@
+1,2 ==input().split()
+1==int(1)
+2==int(2)
+print(1)
+print(2)
